@@ -27,6 +27,4 @@ The dataset comes from [Kaggle YouTube Trending Video Dataset](https://www.kaggl
 - Tags, channel, publish time, description
 - Category ID and trending dates
 
-## 📁 Project Structure
-
 
